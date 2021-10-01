@@ -1,0 +1,14 @@
+C:\Users\juan0\Google Drive Unicauca\Academico\Informatica\Programacion orientada a objeto\Laboratorio POO\solCalculadora\appWinCalculadora\bin\Debug\appWinCalculadora.exe.config
+C:\Users\juan0\Google Drive Unicauca\Academico\Informatica\Programacion orientada a objeto\Laboratorio POO\solCalculadora\appWinCalculadora\bin\Debug\appWinCalculadora.exe
+C:\Users\juan0\Google Drive Unicauca\Academico\Informatica\Programacion orientada a objeto\Laboratorio POO\solCalculadora\appWinCalculadora\bin\Debug\appWinCalculadora.pdb
+C:\Users\juan0\Google Drive Unicauca\Academico\Informatica\Programacion orientada a objeto\Laboratorio POO\solCalculadora\appWinCalculadora\bin\Debug\libServicios.dll
+C:\Users\juan0\Google Drive Unicauca\Academico\Informatica\Programacion orientada a objeto\Laboratorio POO\solCalculadora\appWinCalculadora\bin\Debug\libServicios.pdb
+C:\Users\juan0\Google Drive Unicauca\Academico\Informatica\Programacion orientada a objeto\Laboratorio POO\solCalculadora\appWinCalculadora\obj\Debug\appWinCalculadora.csproj.AssemblyReference.cache
+C:\Users\juan0\Google Drive Unicauca\Academico\Informatica\Programacion orientada a objeto\Laboratorio POO\solCalculadora\appWinCalculadora\obj\Debug\appWinCalculadora.frmOperador.resources
+C:\Users\juan0\Google Drive Unicauca\Academico\Informatica\Programacion orientada a objeto\Laboratorio POO\solCalculadora\appWinCalculadora\obj\Debug\appWinCalculadora.mdiFormPrincipal.resources
+C:\Users\juan0\Google Drive Unicauca\Academico\Informatica\Programacion orientada a objeto\Laboratorio POO\solCalculadora\appWinCalculadora\obj\Debug\appWinCalculadora.Properties.Resources.resources
+C:\Users\juan0\Google Drive Unicauca\Academico\Informatica\Programacion orientada a objeto\Laboratorio POO\solCalculadora\appWinCalculadora\obj\Debug\appWinCalculadora.csproj.GenerateResource.cache
+C:\Users\juan0\Google Drive Unicauca\Academico\Informatica\Programacion orientada a objeto\Laboratorio POO\solCalculadora\appWinCalculadora\obj\Debug\appWinCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\juan0\Google Drive Unicauca\Academico\Informatica\Programacion orientada a objeto\Laboratorio POO\solCalculadora\appWinCalculadora\obj\Debug\appWinCalculadora.csproj.CopyComplete
+C:\Users\juan0\Google Drive Unicauca\Academico\Informatica\Programacion orientada a objeto\Laboratorio POO\solCalculadora\appWinCalculadora\obj\Debug\appWinCalculadora.exe
+C:\Users\juan0\Google Drive Unicauca\Academico\Informatica\Programacion orientada a objeto\Laboratorio POO\solCalculadora\appWinCalculadora\obj\Debug\appWinCalculadora.pdb
